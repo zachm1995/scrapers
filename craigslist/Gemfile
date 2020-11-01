@@ -1,0 +1,10 @@
+gem 'selenium-webdriver', '~> 3.142', '>= 3.142.7'
+gem 'awesome_print', '~> 1.8'
+
+driver = Selenium::WebDriver.for :firefox
+
+puts "What are you looking for?"
+query = gets.chomp.gsub(' ', '+')
+
+driver.get("https://providence.craigslist.org/search/sss?query=#{query}&sort=rel")
+

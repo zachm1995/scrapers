@@ -1,0 +1,158 @@
+ID,Brand,Model,Low End,High End,Score,Road Test,Reliability,Satisfaction
+0,Subaru,Crosstrek,22145,35145,85,87,5,4
+1,Hyundai,Kona,20300,45400,78,71,5,4
+2,NissanRogue,Rogue Sport,23240,29800,78,72,5,2
+3,Mazda,CX-3,20640,22040,73,64,5,1
+4,Kia,Seltos,21990,27890,68,72,3,4
+5,Ford,EcoSport,19995,27715,68,61,5,2
+6,Honda,HR-V,20820,28890,66,66,4,2
+7,Mazda,CX-30,21900,29600,61,64,3,3
+8,Chevrolet,Trax,21300,29100,53,55,3,1
+9,Jeep,Renegade,22375,28500,48,56,2,1
+10,Fiat,500X,24590,29495,35,50,1,1
+11,Chevrolet,TrailBlazer,19000,26900,"Not
+Tested",2,4,1
+12,MitsubishiOutlander,Outlander Sport,22595,26995,"Not
+Tested",3,2,1
+13,Mazda,CX-5,25190,37155,84,80,5,4
+14,Subaru,Forester,24495,34595,84,90,3,5
+15,Honda,CR-V,25050,35950,77,82,3,4
+16,Chevrolet,Equinox,23800,35700,76,78,4,3
+17,Kia,Sportage,23990,35090,75,78,3,3
+18,Nissan,Rogue,25300,33040,75,74,4,2
+19,Toyota,RAV4,25950,36880,72,72,3,3
+20,GMC,Terrain,25000,39900,69,67,4,3
+21,Hyundai,Tucson,23550,33300,67,75,3,2
+22,Ford,Escape,24885,38835,62,73,2,4
+23,Volkswagen,Tiguan,24945,38795,61,84,1,3
+24,Mitsubishi,Outlander,24895,41695,54,59,3,2
+25,Jeep,Cherokee,25840,38495,52,68,2,2
+26,MitsubishiEclipse,Eclipse Cross,22995,28745,52,57,3,2
+27,Jeep,Compass,22280,30130,51,56,3,1
+28,Kia,Telluride,31890,43790,92,97,4,5
+29,Hyundai,Palisade,31775,46625,87,88,4,5
+30,Subaru,Outback,26645,39695,87,91,4,4
+31,Mazda,CX-9,33890,46215,86,80,5,4
+32,Toyota,Highlander,34600,50200,86,86,4,4
+33,Subaru,Ascent,31995,45045,82,86,4,4
+34,Ford,Edge,31100,43265,79,84,3,3
+35,HyundaiSanta,Santa Fe,26125,39425,78,80,3,5
+36,Honda,Pilot,31650,49720,75,80,3,3
+37,Nissan,Murano,31530,45330,75,77,4,3
+38,Kia,Sorento,26990,41890,74,78,4,3
+39,JeepGrand,Grand Cherokee,32150,87400,70,80,3,4
+40,Ford,Explorer,32765,58250,69,78,2,4
+41,Chevrolet,Blazer,28800,45600,68,83,2,5
+42,Nissan,Pathfinder,31680,44610,68,72,3,1
+43,Chevrolet,Traverse,29800,53200,65,95,1,4
+44,Toyota,4Runner,36120,49865,65,55,5,4
+45,Dodge,Durango,30795,62995,63,83,2,4
+46,Volkswagen,Atlas,31545,49195,61,84,1,3
+47,Honda,Passport,31990,43780,59,79,1,4
+48,Jeep,Wrangler,28295,42195,26,36,1,4
+49,Dodge,Journey,23675,28595,"Not
+Tested",2,2,4
+50,VolkswagenAtlas,Atlas Cross Sport,30545,49795,In Test,1,4,4
+51,Ford,Expedition,48990,80110,73,73,3,5
+52,Toyota,Sequoia,49980,69245,73,60,5,4
+53,Chevrolet,Tahoe,46800,65700,68,67,3,4
+54,GMC,Yukon,50600,70700,68,67,3,4
+55,Chevrolet,Suburban,49700,68500,64,74,3,4
+56,Nissan,Armada,47100,63530,63,69,3,3
+57,GMCYukon,Yukon XL,53400,73500,59,67,3,4
+58,Chevrolet,Suburban,51700,75300,"Not
+Tested",2,4,4
+59,Chevrolet,Tahoe,49000,72600,"Not
+Tested",3,4,4
+60,GMC,Yukon,50700,71400,"Not
+Tested",3,4,4
+61,GMCYukon,Yukon XL,53400,74100,"Not
+Tested",3,4,4
+62,Lexus,UX,32300,39700,80,71,5,4
+63,Audi,Q3,34700,36000,78,84,3,4
+64,BMW,X2,36400,46450,74,77,4,1
+65,BMW,X1,35200,37200,72,74,4,1
+66,Volvo,XC40,33700,42450,72,71,4,5
+67,Buick,Encore,23200,30800,71,69,4,2
+68,MiniCooper,Cooper Countryman,28400,41400,69,82,2,4
+69,BuickEncore,Encore GX,24100,30500,63,67,3,3
+70,Mercedes-Benz,GLA,34250,36250,63,70,3,1
+71,Jaguar,E-Pace,39950,52950,55,69,2,2
+72,Cadillac,XT4,35695,42295,52,78,1,3
+73,Mercedes-Benz,GLA,34250,36250,"Not
+Tested",3,1,3
+74,Porsche,Macan,50900,83600,82,84,4,4
+75,Lexus,NX,36870,46510,80,74,5,2
+76,BMW,X3,41950,76900,78,92,3,4
+77,Infiniti,QX50,37250,55850,75,77,3,2
+78,Audi,Q5,43300,52900,74,83,3,4
+79,Mercedes-Benz,GLC,42500,84100,72,79,3,2
+80,Volvo,XC60,40150,69500,71,79,3,3
+81,Mercedes-Benz,GLB,36600,38600,68,81,2,4
+82,Alfa,Stelvio,41400,80500,67,74,3,3
+83,Lincoln,Corsair,35945,44830,67,82,2,4
+84,Buick,Envision,33500,43600,65,69,3,2
+85,Cadillac,XT5,44095,55095,64,76,2,3
+86,Acura,RDX,37800,47900,61,82,1,3
+87,Jaguar,F-Pace,45200,80600,54,72,2,2
+88,Land,Range Rover Velar,56300,90790,54,76,1,2
+89,Land,Range Rover Evoque,42650,56850,45,58,1,3
+90,Land,Discovery Sport,37800,52800,44,58,1,1
+91,FordMustang,Mustang Mach-E,43895,60500,"Not
+Tested",3,5,1
+92,BMW,X4,51100,80400,"Not
+Tested",3,4,1
+93,Mercedes-Benz,EQC,67900,76620,"Not
+Tested",3,5,1
+94,Mercedes-BenzGLC,GLC Coupe,50000,84100,"Not
+Tested",3,3,1
+95,TeslaModel,Model Y,52990,60990,"Not
+Tested",2,5,1
+96,Porsche,Cayenne,66800,164400,88,87,5,4
+97,Audi,e-tron,74800,164400,81,84,4,5
+98,LexusRX,RX L,47300,50550,81,80,4,4
+99,Lexus,RX,44150,56510,80,77,4,4
+100,Lexus,GX,53000,64265,79,70,5,3
+101,Infiniti,QX60,44350,48150,78,79,4,1
+102,BMW,X5,58900,114100,72,98,1,5
+103,Lincoln,Aviator,51100,87800,72,82,2,4
+104,GMC,Acadia,29800,48300,70,83,3,3
+105,Mercedes-Benz,GLE,54250,77600,69,80,2,4
+106,Lincoln,Nautilus,41040,63800,63,84,1,4
+107,Volvo,XC90,48350,73800,63,84,1,4
+108,Jaguar,I-Pace,69850,80900,61,76,2,5
+109,Acura,MDX,44500,61750,58,80,1,2
+110,TeslaModel,Model X,84990,104990,57,77,1,5
+111,Cadillac,XT6,52695,57095,56,82,1,3
+112,Land,Range Rover,90900,209500,54,78,1,3
+113,Land,Range Rover Sport,68650,114500,54,72,1,4
+114,Land,Discovery,52300,69200,51,71,1,2
+115,Genesis,GV80,48900,65050,"Not
+Tested",3,5,2
+116,Rivian,R1S,72000,82000,"Not
+Tested",2,5,2
+117,Audi,Q7,54800,60800,In Test,2,4,2
+118,Audi,Q8,68200,113000,"Not
+Tested",1,4,2
+119,BMW,X6,64300,117600,"Not
+Tested",2,4,2
+120,Land,Defender,49900,80900,"Not
+Tested",1,4,2
+121,Maserati,Levante,72990,149990,"Not
+Tested",2,3,2
+122,PorscheCayenne,Cayenne Coupe,75300,130100,"Not
+Tested",3,4,2
+123,Buick,Enclave,40000,56100,76,87,3,4
+124,ToyotaLand,Land Cruiser,85415,87745,74,68,4,4
+125,Mercedes-Benz,GLS,75950,98800,71,86,2,4
+126,BMW,X7,73900,99600,70,94,1,5
+127,Infiniti,QX80,66750,91450,67,68,3,2
+128,Lincoln,Navigator,76185,100335,65,65,3,5
+129,Cadillac,Escalade,75195,98295,41,61,2,4
+130,Cadillac,Escalade,75195,98295,"Not
+Tested",2,4,4
+131,Lexus,LX,86480,91480,"Not
+Tested",5,3,4
+132,Mercedes-Benz,G-Class,130900,156450,"Not
+Tested",3,3,4
+133,Subaru,Outback,26645,39695,87,91,4,4
